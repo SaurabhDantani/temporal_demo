@@ -1,0 +1,17 @@
+export enum RegistrarConstantNumberEnum {
+  LINKINTIME = 1,
+  KFINTECH = 2,
+  BIGSHARE = 3,
+  CAMEO = 4,
+  SKYLINE = 5,
+  PURVA = 6,
+  MAASHITLA = 7,
+  SATELLITECORPORATE = 8,
+  MASSERVICES = 9,
+  BEETAL = 10,
+  ALANKIT = 11,
+  INTEGRATED = 12,
+  ACCURATE = 13,
+  NSDLDatabaseManagement = 14,
+  ANKITCONSULTANCY = 15,
+}
